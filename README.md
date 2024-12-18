@@ -14,10 +14,10 @@
 
 ---
 ### What You'll Find Here
-- Java Backend Projects: Showcasing expertise in Spring Boot, Hibernate, and building REST APIs.
-- Full-Stack Applications: Combining backend power with frontend skills, using Java, JavaScript, and modern frameworks.
-- LeetCode Practice Repository: My problem-solving journey is categorized and documented.
-- Experimental Code: Exploring tools, frameworks, and new ideas.
+- **Java Backend Projects**: Showcasing expertise in Spring Boot, Hibernate, and building REST APIs.
+- **Full-Stack Applications**: Combining backend power with frontend skills, using Java, JavaScript, and modern frameworks.
+- **LeetCode Practice Repository**: My problem-solving journey is categorized and documented.
+- **Experimental Code**: Exploring tools, frameworks, and new ideas.
 
 ---
 
