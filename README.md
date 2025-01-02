@@ -67,7 +67,7 @@
 
 ### Current Focus
 
-- 🏗 Developing a Java-based web app for animal health services.
+- 🏗 Developing a Java-based web app.
 
 - 🌐 Building full-stack applications with Java as the foundation.
 
