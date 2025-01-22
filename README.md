@@ -101,7 +101,15 @@
 
 - 📍 Based in Delhi, India.
 
+<details open>
+<summary align="center"><h2>Profile Statistics </h2></summary>
 
+  <div align="center">
+       <a href="https://github.com/kabi239/kabi239"><img alt="kabi239's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kabi239&bg_color=RRGGBBAA&title_color=DE3163&color=DE3163&line=DE3163&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
+
+<br>
+</details>
 
 ---
 
